@@ -1,0 +1,19 @@
+.icons{
+    font-size: 80px;
+    text-align: center;
+    margin-left: 5px;
+}
+
+.text{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.spacethree{
+height: 50px;
+}
